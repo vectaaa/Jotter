@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">295028631812-l8qvu88r5hj5988l6bb0ld4978hrp4mp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://blaze-9a2da.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">295028631812</string>
+    <string name="google_api_key" translatable="false">AIzaSyCqLvs-rFO188fhdeur4JArQbIbKkTiv8g</string>
+    <string name="google_app_id" translatable="false">1:295028631812:android:f952e669b274961667c851</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCqLvs-rFO188fhdeur4JArQbIbKkTiv8g</string>
+    <string name="google_storage_bucket" translatable="false">blaze-9a2da.appspot.com</string>
+    <string name="project_id" translatable="false">blaze-9a2da</string>
+</resources>

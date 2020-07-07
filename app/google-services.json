@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "295028631812",
+    "firebase_url": "https://blaze-9a2da.firebaseio.com",
+    "project_id": "blaze-9a2da",
+    "storage_bucket": "blaze-9a2da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295028631812:android:be06d4d856a4f60167c851",
+        "android_client_info": {
+          "package_name": "com.example.blaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295028631812-l8qvu88r5hj5988l6bb0ld4978hrp4mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqLvs-rFO188fhdeur4JArQbIbKkTiv8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295028631812-l8qvu88r5hj5988l6bb0ld4978hrp4mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295028631812:android:f952e669b274961667c851",
+        "android_client_info": {
+          "package_name": "com.startng.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295028631812-l8qvu88r5hj5988l6bb0ld4978hrp4mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqLvs-rFO188fhdeur4JArQbIbKkTiv8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295028631812-l8qvu88r5hj5988l6bb0ld4978hrp4mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
